@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PatrickJoshAntonio.github.io/React-p2individualactivity/static/css/main.20c13bf8.css",
+    "main.js": "/PatrickJoshAntonio.github.io/React-p2individualactivity/static/js/main.f7b0392c.js",
+    "static/media/bg-texture.png": "/PatrickJoshAntonio.github.io/React-p2individualactivity/static/media/bg-texture.98bf68a2230823772db3.png",
+    "index.html": "/PatrickJoshAntonio.github.io/React-p2individualactivity/index.html",
+    "main.20c13bf8.css.map": "/PatrickJoshAntonio.github.io/React-p2individualactivity/static/css/main.20c13bf8.css.map",
+    "main.f7b0392c.js.map": "/PatrickJoshAntonio.github.io/React-p2individualactivity/static/js/main.f7b0392c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c13bf8.css",
+    "static/js/main.f7b0392c.js"
+  ]
+}
